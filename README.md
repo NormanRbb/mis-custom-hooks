@@ -1,6 +1,8 @@
 # custom-hooks
 Repositorio con varios custom hooks
 
-useForm: Es un custom hook para el manejo de formularios
+useForm: Es un hook para el manejo de formularios
 
-use
+useFetch: Es un hook para peticiones asincronas
+
+useCounter: Es un hook para para un contador
